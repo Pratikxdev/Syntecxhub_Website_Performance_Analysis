@@ -170,5 +170,5 @@ jupyter notebook Website_Performance_Analysis_project.ipynb
 
 ## 📬 Connect
 
-- GitHub: [github.com/pikuwa](https://github.com/pikuwa)
+- GitHub: [github.com/pratikxdev](https://github.com/pratikxdev)
 - LinkedIn: [linkedin.com/in/pratikxdev](https://www.linkedin.com/in/pratikxdev)
