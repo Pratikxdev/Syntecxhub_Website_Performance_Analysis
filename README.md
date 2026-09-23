@@ -14,7 +14,7 @@ Analysis of hourly website traffic and engagement data across acquisition channe
 ## 👤 Author
 
 **Pratik Kumar Prajapati**
-Aspiring Data Analyst | B.Tech CSE, Apollo Institute of Technology, Kanpur
+Aspiring Data Analyst | B.Tech CSE, Apollo Institute of Technology, Kanpur. 
 I turn raw, messy data into clear insights using Python, SQL, and Power BI — building real-world experience one project at a time.
 
 [![GitHub](https://img.shields.io/badge/GitHub-pikuwa-181717?logo=github&logoColor=white)](https://github.com/pikuwa)
