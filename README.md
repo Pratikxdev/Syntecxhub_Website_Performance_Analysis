@@ -14,8 +14,8 @@ Analysis of hourly website traffic and engagement data across acquisition channe
 ## 👤 Author
 
 **Pratik Kumar Prajapati**
-B.Tech, Computer Science & Engineering — Apollo Institute of Technology, Kanpur
-Focus areas: Python Development · Data Analytics · AI · Backend Development
+B.Tech, Computer Science & Engineering 
+Focusing on Data Analyst
 
 [![GitHub](https://img.shields.io/badge/GitHub-pikuwa-181717?logo=github&logoColor=white)](https://github.com/pikuwa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratikxdev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikxdev)
@@ -148,6 +148,7 @@ Despite session volume swinging by 5–10x within a single day, the **engagement
 ```
 ├── README.md
 ├── Website_Performance_Analysis_project.ipynb
+├── website_Performance_Analysis_report.docx
 └── images/
     ├── 01_sessions_users_over_time.png
     ├── 02_total_users_by_channel.png
